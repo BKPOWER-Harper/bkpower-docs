@@ -1,20 +1,29 @@
-# bkpower-docs
-Technical documentation, manuals and wiring diagrams for BKPOWER UPS, voltage stabilizers, CVTs and inverters.
-# BKPOWER Technical Documentation
+# BKPOWER Technical Documentation | Industrial Power Solutions
+BKPOWER is a professional manufacturer of industrial power protection equipment. This official repository collects all free technical documents, including product catalogs, user manuals, installation guides, wiring diagrams and maintenance docs.
 
-Welcome to the official technical resource center for **BKPOWER**.
+## Main Product Lines
+- Online UPS (High Frequency / Industrial Frequency)
+- Line Interactive UPS
+- Servo & Contactless Voltage Stabilizer (AVR / CVT)
+- Power Inverter
+- Variable Frequency Drive (VFD)
+- Soft Starter
 
-BKPOWER specializes in high-quality power protection and conversion solutions, including:
-- Uninterruptible Power Supplies (UPS)
-- Constant Voltage Transformers (CVT)
-- AC Voltage Stabilizers
-- Frequency Converters
-- Inverters
-- Soft Starters
-- Isolation Transformers
+## Application Scenarios
+Data Center, Industrial Automation, Telecom Base Station, Medical Device, Factory Power Supply, Commercial Building
 
-📄 Explore our product manuals, wiring diagrams, and technical specifications below.
+## Document Library
+All files are classified by product for quick download:
+- [UPS Series Documents](./ups/)
+- [Voltage Stabilizer & CVT Manuals](./voltage-stabilizer/)
+- [Inverter, VFD & Soft Starter Guides](./inverter-vfd/)
 
-🔗 Official Website: [www.bkpower.cn](http://www.bkpower.cn)
+## Download Rules
+All documents are official, updated regularly and 100% free for download.
 
-📧 For technical support or OEM inquiries, contact us via our website.
+## Official Website
+For full product details, quotation and technical support, please visit our official site:
+👉 https://www.bkpowers.com
+
+---
+⭐ Star this repository if our documents help you!
