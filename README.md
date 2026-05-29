@@ -13,10 +13,13 @@ BKPOWER is a professional manufacturer of industrial power protection equipment.
 Data Center, Industrial Automation, Telecom Base Station, Medical Device, Factory Power Supply, Commercial Building
 
 ## Document Library
+## Quick Links 快速入口
 - [📚 BKPOWER Wiki - FAQ & Technical Guides](https://github.com/BKPOWER-Harper/bkpower-docs/wiki)
   [📚 BKPOWER Wiki - 常见问题与技术指南](https://github.com/BKPOWER-Harper/bkpower-docs/wiki)
+- [📦 Full Documents Package (v1.0)](https://github.com/BKPOWER-Harper/bkpower-docs/releases/tag/v1.0)
+  [📦 完整文档包下载](https://github.com/BKPOWER-Harper/bkpower-docs/releases/tag/v1.0)
 - [🌐 Official Website 官方网站](https://www.bkpowers.com)
-- [📄 All Documents Repository 文档仓库首页](https://github.com/BKPOWER-Harper/bkpower-docs)
+- [📄 All Documents Repository 文档仓库首页](https://github.com/BKPOWER-Harper/bkpower-docs)****
 
 ## Download Rules
 All documents are official, updated regularly and 100% free for download.All documents are official, updated regularly and 100% free for download.
